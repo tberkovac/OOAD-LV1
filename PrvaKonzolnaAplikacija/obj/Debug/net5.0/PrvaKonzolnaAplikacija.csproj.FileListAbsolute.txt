@@ -1,0 +1,16 @@
+/home/tarik/RiderProjects/PrvaKonzolnaAplikacija/PrvaKonzolnaAplikacija/bin/Debug/net5.0/PrvaKonzolnaAplikacija
+/home/tarik/RiderProjects/PrvaKonzolnaAplikacija/PrvaKonzolnaAplikacija/bin/Debug/net5.0/PrvaKonzolnaAplikacija.deps.json
+/home/tarik/RiderProjects/PrvaKonzolnaAplikacija/PrvaKonzolnaAplikacija/bin/Debug/net5.0/PrvaKonzolnaAplikacija.runtimeconfig.json
+/home/tarik/RiderProjects/PrvaKonzolnaAplikacija/PrvaKonzolnaAplikacija/bin/Debug/net5.0/PrvaKonzolnaAplikacija.runtimeconfig.dev.json
+/home/tarik/RiderProjects/PrvaKonzolnaAplikacija/PrvaKonzolnaAplikacija/bin/Debug/net5.0/PrvaKonzolnaAplikacija.dll
+/home/tarik/RiderProjects/PrvaKonzolnaAplikacija/PrvaKonzolnaAplikacija/bin/Debug/net5.0/ref/PrvaKonzolnaAplikacija.dll
+/home/tarik/RiderProjects/PrvaKonzolnaAplikacija/PrvaKonzolnaAplikacija/bin/Debug/net5.0/PrvaKonzolnaAplikacija.pdb
+/home/tarik/RiderProjects/PrvaKonzolnaAplikacija/PrvaKonzolnaAplikacija/obj/Debug/net5.0/PrvaKonzolnaAplikacija.csproj.AssemblyReference.cache
+/home/tarik/RiderProjects/PrvaKonzolnaAplikacija/PrvaKonzolnaAplikacija/obj/Debug/net5.0/PrvaKonzolnaAplikacija.GeneratedMSBuildEditorConfig.editorconfig
+/home/tarik/RiderProjects/PrvaKonzolnaAplikacija/PrvaKonzolnaAplikacija/obj/Debug/net5.0/PrvaKonzolnaAplikacija.AssemblyInfoInputs.cache
+/home/tarik/RiderProjects/PrvaKonzolnaAplikacija/PrvaKonzolnaAplikacija/obj/Debug/net5.0/PrvaKonzolnaAplikacija.AssemblyInfo.cs
+/home/tarik/RiderProjects/PrvaKonzolnaAplikacija/PrvaKonzolnaAplikacija/obj/Debug/net5.0/PrvaKonzolnaAplikacija.csproj.CoreCompileInputs.cache
+/home/tarik/RiderProjects/PrvaKonzolnaAplikacija/PrvaKonzolnaAplikacija/obj/Debug/net5.0/PrvaKonzolnaAplikacija.dll
+/home/tarik/RiderProjects/PrvaKonzolnaAplikacija/PrvaKonzolnaAplikacija/obj/Debug/net5.0/ref/PrvaKonzolnaAplikacija.dll
+/home/tarik/RiderProjects/PrvaKonzolnaAplikacija/PrvaKonzolnaAplikacija/obj/Debug/net5.0/PrvaKonzolnaAplikacija.pdb
+/home/tarik/RiderProjects/PrvaKonzolnaAplikacija/PrvaKonzolnaAplikacija/obj/Debug/net5.0/PrvaKonzolnaAplikacija.genruntimeconfig.cache
